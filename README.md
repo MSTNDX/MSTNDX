@@ -1,2 +1,2 @@
-- 👋 Hi, I’m NDX
-I am noob
+- 👋 Hi, I’m NDX\n
+I am noob\n
