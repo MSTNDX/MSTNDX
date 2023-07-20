@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://github.com/MSTNDX/MSTNDX/tree/Malware-Analysis">Malware Analysis</a>
       <br>
-<a href="https://github.com/MSTNDX/MSTNDX/tree/Penetration">Penetraion</a>
+<a href="https://github.com/MSTNDX/MSTNDX/tree/Penetration">Penetraion Testing</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
