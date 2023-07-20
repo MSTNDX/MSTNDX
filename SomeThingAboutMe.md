@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NDX</h1>
 <h3 align="center">I am a student learning at FPT University, major is Information Assurance. And I fell in love with penetration to find the vulnerability of websites. I want to be an intern in some company like FIS or CyRadar but it is my future. and in this GitHub, I post my writeup about my process of practice penetration in bWAPP or PortSwigger and maybe in the future will have more and more Thank you for reading : D My English is not good so my writeup you will see in Vietnamese but in the future i will practice more for can write writeup with English for more people</h3>
-<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyuS21P6PONDIsESlJ8MYyIyU4PvtFqISeQ&usqp=CAU](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNpbWJpMmoyaXMyOWp6aDUwZGV0ZHo1NmxqaXhodWF3a3dmZnkzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cfiid6I8YDKqrCxAaY/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNpbWJpMmoyaXMyOWp6aDUwZGV0ZHo1NmxqaXhodWF3a3dmZnkzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cfiid6I8YDKqrCxAaY/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndx&label=Profile%20views&color=0e75b6&style=flat" alt="ndx" /> </p>
 
 - ⚡ Fun fact **I am noob**
